@@ -3,9 +3,10 @@
 ### Introduction
 Airbnb is an online marketplace that connects people who want to rent out their property with people who are looking for accommodations, typically for short stays.Airbnb began in 2008 when two designers who had space to share hosted three travelers looking for a place to stay. Now, millions of Hosts and guests have created free Airbnb accounts to enjoy each other's unique view of the world.Airbnb offers hosts a relatively easy way to earn some income from their property.
 
-## Domain : Travel Industry, Property management and Tourism
+## Domain 
+Travel Industry, Property management and Tourism
 
-## Problem Statement :
+## Problem Statement 
 This project aims to data extract and analyze , perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
 ## Prerequisites
