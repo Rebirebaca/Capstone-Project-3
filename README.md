@@ -10,11 +10,11 @@ Travel Industry, Property management and Tourism
 This project aims to data extract and analyze , perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
 ## Prerequisites
-Python -- Programming Language
-pandas -- Python Library for Data Visualization
-json --- It importing the functionality provided by the JSON (JavaScript Object Notation) module/library into the current Python script or environment.
-streamlit -- Python framework to rapidly build and share beautiful machine learning and data science web apps
-plotly -- Python Module that is used for data visualization and supports various graphs
+1. Python -- Programming Language
+2. pandas -- Python Library for Data Visualization
+3. json --- It importing the functionality provided by the JSON (JavaScript Object Notation) module/library into the current Python script or environment.
+4. streamlit -- Python framework to rapidly build and share beautiful machine learning and data science web apps
+5. plotly -- Python Module that is used for data visualization and supports various graphs
 
 ## Project Workflow
 ### Step 1 -- Establish MongoDB Connection
