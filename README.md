@@ -17,7 +17,7 @@ This project aims to data extract and analyze , perform data cleaning and prepar
 5. plotly --> Python Module that is used for data visualization and supports various graphs
 
 ## Project Workflow
-### Step 1 -- Establish MongoDB Connection
+### Step 1 -- Data extraction
 Get a data from airbnb JSON data and extract hotel data,room data,review data,reviewer data, host data and initiate the process of retrieving the Airbnb dataset from it.
 
 ### Step 2 -- Data Cleaning and Preparation
